@@ -1,0 +1,41 @@
+button{
+    font-size: 22px;
+    border: 1px solid black;
+    height: 75px;
+    width: 90px;
+    background-color: rgb(220, 226, 184);
+}
+input{
+    width: 352px;
+    height: 50px;
+    font-size: 21px;
+    background-color: beige;
+}
+#clear{
+    width:180px;
+
+}
+#clear :hover{
+   background-color: red;
+}
+#eql{
+    width: 180px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+     align-items: center;
+    
+      
+}
+body{
+
+    background-color: rgb(85, 158, 158);
+}
+h2{
+    text-align:center;
+    font-weight: 500;
+}
+button:hover{
+    background-color:  rgb(181, 215, 133);
+}
